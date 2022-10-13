@@ -27,11 +27,3 @@
   ol, ul {
     list-style: none;
   }
-  
-  .resources {
-    display:none;
-  }
-
-  .show-resources:hover~.resources {
-    display: block;
-  }
